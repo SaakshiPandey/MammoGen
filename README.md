@@ -25,8 +25,8 @@
 ### ✅ Increased dataset diversity & model generalization
 ### ✅ Reduced dependence on real patient data (50–70%)
 
-##🔬 Future Scope
-🔹 Improve image quality using StyleGAN3
-🔹 Experiment with conditional GANs (cGANs)
-🔹 Collaborate with hospitals & AI researchers
+## 🔬 Future Scope
+### 🔹 Improve image quality using StyleGAN3
+### 🔹 Experiment with conditional GANs (cGANs)
+### 🔹 Collaborate with hospitals & AI researchers
 
